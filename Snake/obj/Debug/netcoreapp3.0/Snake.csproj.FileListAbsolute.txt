@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FundTesttt\Snake\bin\Debug\netcoreapp3.0\Snake.exe
+C:\Users\HP\source\repos\FundTesttt\Snake\bin\Debug\netcoreapp3.0\Snake.deps.json
+C:\Users\HP\source\repos\FundTesttt\Snake\bin\Debug\netcoreapp3.0\Snake.runtimeconfig.json
+C:\Users\HP\source\repos\FundTesttt\Snake\bin\Debug\netcoreapp3.0\Snake.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FundTesttt\Snake\bin\Debug\netcoreapp3.0\Snake.dll
+C:\Users\HP\source\repos\FundTesttt\Snake\bin\Debug\netcoreapp3.0\Snake.pdb
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.AssemblyInfo.cs
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.dll
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.pdb
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FundTesttt\Snake\obj\Debug\netcoreapp3.0\Snake.genruntimeconfig.cache
